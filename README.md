@@ -7,6 +7,7 @@
 - May make many bugs and without standardize for sometimes, Sorry for that...
 
 ### Likes:
+- **Elaina** (x
 - Minecraft (Building Modern Cities)
 - **Arknights**, Genshin Impact
 - PVZ, Civilization VI, Don't Starve, Oxygen not included, CS2...
