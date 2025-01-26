@@ -16,6 +16,7 @@
 ### Can work with:
 - Python
 - SQL
+- HTML
 - C (a little)
 
 ### Studying:
