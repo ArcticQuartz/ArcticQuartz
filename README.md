@@ -26,3 +26,5 @@
 ### Contact me:
 Email: caquartz@qq.com
 QQ: 975883616
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcticQuartz&theme=material-palenight&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5)
