@@ -19,7 +19,7 @@
 - HTML
 - C (a little)
 
-### Studying:
+### Learning:
 - C#
 - Assembly
 - Java (Planning)
