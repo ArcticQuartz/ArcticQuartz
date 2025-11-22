@@ -23,6 +23,7 @@
 ### Learning:
 - C#
 - Assembly
+- Deep Learning
 - Java (Planning)
 
 ### Contact me:
